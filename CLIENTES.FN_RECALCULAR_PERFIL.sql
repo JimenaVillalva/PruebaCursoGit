@@ -15,6 +15,7 @@ CREATE OR REPLACE FUNCTION CLIENTES.FN_RECALCULAR_PERFIL (
 	DYNDFTCOL = *NO , 
 	DYNUSRPRF = *USER , 
 	SRTSEQ = *HEX   
+    --en modificacion de prueba
 BEGIN
 ------------------------------------------------------------------------------*
 -- 
