@@ -1,4 +1,12 @@
 linea 1
+linea 2
+linea 3
+linea 4
 
+<<<<<<< HEAD
 linea6
 linea7
+=======
+linea6  probando 
+linea7
+>>>>>>> otra_rama
